@@ -1,4 +1,3 @@
-````markdown
 # MySQL Spring Boot REST API
 
 A Student Management REST API built using Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL.
