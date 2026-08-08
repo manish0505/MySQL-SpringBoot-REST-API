@@ -270,5 +270,3 @@ Through this project, I worked with:
 Manish R
 
 GitHub: [https://github.com/manish0505](https://github.com/manish0505)
-
-````
